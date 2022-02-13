@@ -7,4 +7,3 @@
 - 📫 How to reach me: vbhuvan24@gmail.com 
 - ⚡ Fun fact:My favourite animal is a dog because they're so energetic and friendly.
 
-![Alt text]("C:\Web Development\Yash_portfolio\icons\Designer.jpg"")
