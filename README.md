@@ -1,11 +1,11 @@
 <h1 align="center">Hello <Coder>!👋, I'm Yash Verma</h1>
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Everthing
 - 🤔 I’m looking for Intership
 - 💬 Ask me about anything on Instagram 
 - 📫 How to reach me: vbhuvan24@gmail.com 
-- ⚡ Fun fact:My favourite animal is a dog because they're so energetic and friendly.
+- ⚡ Fun fact: My favourite animal is a dog because they're so energetic and friendly.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
