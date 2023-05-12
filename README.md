@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everthing
 - 🤔 I’m looking for Intership
 - 💬 Ask me about anything on Instagram 
-- 📫 How to reach me: vbhuvan24@gmail.com 
+- 📫 How to reach me: yashvrx1@gmail.com 
 - ⚡ Fun fact: My favourite animal is a dog because they're so energetic and friendly.
 
 <h3 align="left">Connect with me:</h3>
